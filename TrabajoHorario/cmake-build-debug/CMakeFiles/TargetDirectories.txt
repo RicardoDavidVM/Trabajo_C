@@ -1,0 +1,3 @@
+C:/Aplicaciones/Aplicaciones de uso/C-lion/CLion 2022.2.3/CLionProjects/PrimerTrimestre/TrabajoHorario/cmake-build-debug/CMakeFiles/TrabajoHorario.dir
+C:/Aplicaciones/Aplicaciones de uso/C-lion/CLion 2022.2.3/CLionProjects/PrimerTrimestre/TrabajoHorario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Aplicaciones/Aplicaciones de uso/C-lion/CLion 2022.2.3/CLionProjects/PrimerTrimestre/TrabajoHorario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
